@@ -1,0 +1,16 @@
+.page-bg-color {
+  background-image: linear-gradient(#d91c1f, #1e293b);
+  height: auto;
+  padding: 20px;
+}
+.container {
+  background-color: #0f172a;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: white;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

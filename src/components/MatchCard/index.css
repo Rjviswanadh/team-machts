@@ -1,0 +1,13 @@
+.match-item {
+  background-color: #1e293b;
+
+  width: 330px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 8px;
+}
